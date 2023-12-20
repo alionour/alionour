@@ -1,5 +1,5 @@
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
-<h1 align="center">Hi There, I'm Ali Nour <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi There, I'm Ali Noureldin Elsayed Galal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"> 
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=64FFDADA&lines=I'm+Ali+Nour;A+Flutter+Developer;A+Nodejs+Developer;A+Physical+Therapist;Always+Learning+Things"></a>
 </p>
