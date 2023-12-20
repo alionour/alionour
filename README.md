@@ -1,7 +1,23 @@
 <img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
-<h1 align="center">Hi There, I'm Ali Noureldin Elsayed Galal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi There, I'm Ali Noureldin Galal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center"> 
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=64FFDADA&lines=I'm+Ali+Nour;A+Flutter+Developer;A+Nodejs+Developer;A+Physical+Therapist;Always+Learning+Things"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg" style="text-decoration: none; display: inline-block;">
+<a href="https://github.com/DenverCoder1/readme-typing-svg" style="text-decoration: none; display: inline-block;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=ffffff&lines=Ali+Noureldin+Galal;Passionate+Flutter+Developer;Innovative+Node.js+Developer;Dedicated+Physical+Therapist;Eternally+Curious+Learner"
+       alt="Typing Animation"
+       width="600px"
+       height="120px"
+       style="border: 2px solid #64FFDADA; border-radius: 10px; padding: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); background: linear-gradient(45deg, #64FFDADA, #4FACAC); color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 1.5em; letter-spacing: 1px; transition: all 0.3s ease;"
+       onmouseover="this.style.transform='scale(1.05)'"
+       onmouseout="this.style.transform='scale(1)'"
+  >
+</a>
+
+</a>
+
+</a>
+
 </p>
 
 ### 👨🏻‍💻 &nbsp;About Me
